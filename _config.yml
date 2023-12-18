@@ -1,0 +1,12 @@
+title: Never Monetize
+email:
+description: >-
+  This site is an easy way for website creators to indicate that they never intend to monetize at the start of their project. This helps to communicate expectations to users, who may invest their time and energy into interacting with the site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nevermonetize.com"
+github_username: mark-pitblado
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
