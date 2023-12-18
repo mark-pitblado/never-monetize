@@ -17,4 +17,4 @@ Data is collected only for the purposes of operating the service, such as loggin
 
 ## Payment for Content
 
-All content and functionality of the site is available to all users, free of cost. There is no "premium" content, subscriptions or other paid features. If the costs of running or delivering the service become too high, the service will downsize or shut down, rather than attempt to extract money from the users through any means.
+All content and functionality of the site is available to all users, free of cost. There is no premium content, subscriptions or other paid features. If the costs of running or delivering the service become too high, the service will downsize or shut down, rather than attempt to extract money from the users through any means.
