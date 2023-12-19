@@ -5,7 +5,7 @@ layout: default
 
 # Summary
 
-Users have an expectation of clear and transparent communication from the services they use. This includes an understanding of how the service is funded, and if any of that funding comes from the users themselves. This site is a description of a commitment to _never_ monetize the users of a service. This can be declared at any point in the project lifecycle, however communicating earlier will allow users to feel more informed about their time investment in interacting with the service. The declaration is not a legal contract, but a statement of intent. It is a promise to the users of a service that they will never be the product. This model is not for everyone, but for those who want to make the commitment, this site is a way to do so.
+Users have an expectation of clear and transparent communication from the services they use. This includes an understanding of how the service is funded, and if any of that funding comes from the users themselves. This site is a description of a commitment to _never_ monetize the users of a service. This can be declared at any point in the project lifecycle, however communicating earlier will allow users' to feel more informed about their time investment in interacting with the service. The declaration is not a legal contract, but a statement of intent. It is a promise to the users of a service that they will never be the product. This model is not for everyone, but for those who want to make the commitment, this site is a way to do so.
 
 ## Advertising
 
