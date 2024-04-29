@@ -4,6 +4,10 @@
 
 This project is an easy way for website or app creators to indicate that they never intend to monetize at the start of their project. It helps to communicate expectations to users, who may invest their time and energy into interacting with the site.
 
+
+> [!IMPORTANT]  
+> This project has a new home on codeberg at https://codeberg.org/mark-pitblado/never-monetize! This repository is no longer updated but is kept for reference purposes.
+
 ## Description
 
 If you wish to link to this project, you can simply use the following URL in either website text or in a repositories `README.md` file:
